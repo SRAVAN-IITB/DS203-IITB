@@ -4,5 +4,5 @@ This repo contains our Team project for the course "Programming for Data Science
 ### Team
 * [Sravan K Suresh](https://github.com/SRAVAN-IITB)
 * [Chinmay Tripurwar](https://github.com/Chinoscode111)
-* [Harsh Anand](https://github.com/krimsonscorpio-manga)
+* [Harsh Anand](https://github.com/harshanand7)
 * [Shashant Jindal](https://github.com/shashantjindal)
